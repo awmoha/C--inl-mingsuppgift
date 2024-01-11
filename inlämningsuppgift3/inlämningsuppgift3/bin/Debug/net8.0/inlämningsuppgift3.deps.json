@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "inlämningsuppgift3/1.0.0": {
+        "runtime": {
+          "inlämningsuppgift3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inlämningsuppgift3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\bin\Debug\net8.0\inlämningsuppgift4.exe
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\bin\Debug\net8.0\inlämningsuppgift4.deps.json
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\bin\Debug\net8.0\inlämningsuppgift4.runtimeconfig.json
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\bin\Debug\net8.0\inlämningsuppgift4.dll
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\bin\Debug\net8.0\inlämningsuppgift4.pdb
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\obj\Debug\net8.0\inlämningsuppgift4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\obj\Debug\net8.0\inlämningsuppgift4.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\obj\Debug\net8.0\inlämningsuppgift4.AssemblyInfo.cs
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\obj\Debug\net8.0\inlämningsuppgift4.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\obj\Debug\net8.0\inlämningsuppgift4.dll
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\obj\Debug\net8.0\refint\inlämningsuppgift4.dll
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\obj\Debug\net8.0\inlämningsuppgift4.pdb
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\obj\Debug\net8.0\inlämningsuppgift4.genruntimeconfig.cache
+C:\Users\moham\source\repos\inlämningsuppgift4\inlämningsuppgift4\obj\Debug\net8.0\ref\inlämningsuppgift4.dll

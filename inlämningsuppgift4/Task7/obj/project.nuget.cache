@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lgSm+HYUX797X0FPb/OhqD2PLevUUtguuHfzNVyyLFxerXo4qP9nCoubAg2oIGAxX6JPJnblPIzYqK/iwsG4BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moham\\source\\repos\\inlämningsuppgift4\\Task7\\Task7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.2.14\\microsoft.netcore.universalwindowsplatform.6.2.14.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\xamarin.forms\\5.0.0.2622\\xamarin.forms.5.0.0.2622.nupkg.sha512"
+  ],
+  "logs": []
+}
