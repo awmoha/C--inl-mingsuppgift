@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "WLN8gO7XWMk5rMIzzafoqITWLlEERM3g8kCm2lZbdJh9Czy9TIwVRlneiRqmyJSdgk3WSO+GaalTtiR0ttHSEA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\moham\\source\\repos\\Hotel_Example\\Hotel_Example\\Hotel_Example.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App (>= 2.1.0)' for '.NETCoreApp,Version=v2.1'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
+}

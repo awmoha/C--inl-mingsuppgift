@@ -1,0 +1,15 @@
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\bin\Debug\net8.0\Projekt_Bank.exe
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\bin\Debug\net8.0\Projekt_Bank.deps.json
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\bin\Debug\net8.0\Projekt_Bank.runtimeconfig.json
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\bin\Debug\net8.0\Projekt_Bank.dll
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\bin\Debug\net8.0\Projekt_Bank.pdb
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\obj\Debug\net8.0\Projekt_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\obj\Debug\net8.0\Projekt_Bank.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\obj\Debug\net8.0\Projekt_Bank.AssemblyInfo.cs
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\obj\Debug\net8.0\Projekt_Bank.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\obj\Debug\net8.0\Projekt_Bank.sourcelink.json
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\obj\Debug\net8.0\Projekt_Bank.dll
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\obj\Debug\net8.0\refint\Projekt_Bank.dll
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\obj\Debug\net8.0\Projekt_Bank.pdb
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\obj\Debug\net8.0\Projekt_Bank.genruntimeconfig.cache
+C:\Users\moham\source\repos\Projekt_Bank\Projekt_Bank\obj\Debug\net8.0\ref\Projekt_Bank.dll

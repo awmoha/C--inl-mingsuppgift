@@ -1,0 +1,13 @@
+H:\Documents\MyHKR\VT19\Grundläggande programmering i C#\Example_Application\Hotel_Example\Hotel_Example\bin\Debug\netcoreapp2.1\Hotel_Example.deps.json
+H:\Documents\MyHKR\VT19\Grundläggande programmering i C#\Example_Application\Hotel_Example\Hotel_Example\bin\Debug\netcoreapp2.1\Hotel_Example.runtimeconfig.json
+H:\Documents\MyHKR\VT19\Grundläggande programmering i C#\Example_Application\Hotel_Example\Hotel_Example\bin\Debug\netcoreapp2.1\Hotel_Example.runtimeconfig.dev.json
+H:\Documents\MyHKR\VT19\Grundläggande programmering i C#\Example_Application\Hotel_Example\Hotel_Example\bin\Debug\netcoreapp2.1\Hotel_Example.dll
+H:\Documents\MyHKR\VT19\Grundläggande programmering i C#\Example_Application\Hotel_Example\Hotel_Example\bin\Debug\netcoreapp2.1\Hotel_Example.pdb
+H:\Documents\MyHKR\VT19\Grundläggande programmering i C#\Example_Application\Hotel_Example\Hotel_Example\obj\Debug\netcoreapp2.1\Hotel_Example.csprojAssemblyReference.cache
+H:\Documents\MyHKR\VT19\Grundläggande programmering i C#\Example_Application\Hotel_Example\Hotel_Example\obj\Debug\netcoreapp2.1\Hotel_Example.csproj.CoreCompileInputs.cache
+H:\Documents\MyHKR\VT19\Grundläggande programmering i C#\Example_Application\Hotel_Example\Hotel_Example\obj\Debug\netcoreapp2.1\Hotel_Example.AssemblyInfoInputs.cache
+H:\Documents\MyHKR\VT19\Grundläggande programmering i C#\Example_Application\Hotel_Example\Hotel_Example\obj\Debug\netcoreapp2.1\Hotel_Example.AssemblyInfo.cs
+H:\Documents\MyHKR\VT19\Grundläggande programmering i C#\Example_Application\Hotel_Example\Hotel_Example\obj\Debug\netcoreapp2.1\Hotel_Example.dll
+H:\Documents\MyHKR\VT19\Grundläggande programmering i C#\Example_Application\Hotel_Example\Hotel_Example\obj\Debug\netcoreapp2.1\Hotel_Example.pdb
+C:\Users\moham\source\repos\Hotel_Example\Hotel_Example\obj\Debug\netcoreapp2.1\Hotel_Example.dll
+C:\Users\moham\source\repos\Hotel_Example\Hotel_Example\obj\Debug\netcoreapp2.1\Hotel_Example.pdb

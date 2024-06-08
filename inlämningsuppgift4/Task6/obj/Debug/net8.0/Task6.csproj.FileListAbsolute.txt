@@ -12,3 +12,4 @@ C:\Users\moham\source\repos\inlämningsuppgift4\Task6\obj\Debug\net8.0\refint\Ta
 C:\Users\moham\source\repos\inlämningsuppgift4\Task6\obj\Debug\net8.0\Task6.pdb
 C:\Users\moham\source\repos\inlämningsuppgift4\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
 C:\Users\moham\source\repos\inlämningsuppgift4\Task6\obj\Debug\net8.0\ref\Task6.dll
+C:\Users\moham\source\repos\inlämningsuppgift4\Task6\obj\Debug\net8.0\Task6.sourcelink.json

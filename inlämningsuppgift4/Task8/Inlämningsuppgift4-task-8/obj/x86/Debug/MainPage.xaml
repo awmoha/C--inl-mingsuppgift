@@ -1,0 +1,31 @@
+﻿<!-- MainPage.xaml -->
+<Page
+    x:Class="Inlämningsuppgift4_task_8.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Inlämningsuppgift4_task_8"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <!-- Your UI design goes here -->
+        <StackPanel>
+            <TextBlock Text="Student Management" FontSize="24" Margin="10"/>
+            <TextBox x:ConnectionId='2' x:Name="NameTextBox" PlaceholderText="Name" Margin="10"/>
+            <TextBox x:ConnectionId='3' x:Name="BirthYearTextBox" PlaceholderText="Birth Year" Margin="10"/>
+            <TextBox x:ConnectionId='4' x:Name="BirthMonthTextBox" PlaceholderText="Birth Month" Margin="10"/>
+            <TextBox x:ConnectionId='5' x:Name="BirthDayTextBox" PlaceholderText="Birth Day" Margin="10"/>
+            <TextBox x:ConnectionId='6' x:Name="CourseTextBox" PlaceholderText="Course" Margin="10"/>
+            <TextBox x:ConnectionId='7' x:Name="GradeTextBox" PlaceholderText="Grade" Margin="10"/>
+            <Button x:ConnectionId='8' Content="Add Student"                          Margin="10"/>
+            <Button x:ConnectionId='9' Content="Check Student"                            Margin="10"/>
+            <Button x:ConnectionId='10' Content="Search Students"                              Margin="10"/>
+            <Button x:ConnectionId='11' Content="Display Sorted List"                                 Margin="10"/>
+            <Button x:ConnectionId='12' Content="Remove Student"                             Margin="10"/>
+            <TextBlock x:ConnectionId='13' x:Name="resultText" FontSize="16" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Page>
+
